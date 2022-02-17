@@ -1,0 +1,5 @@
+Credentials cache: API:D2E55234-DF2C-4155-948E-DED5B14E95E5
+        Principal: apico-su@42MADRID.COM
+
+  Issued                Expires               Principal
+Feb 24 13:49:29 2021  Feb 24 23:49:23 2021  krbtgt/42MADRID.COM@42MADRID.COM
